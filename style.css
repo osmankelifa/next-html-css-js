@@ -209,7 +209,8 @@
   display: flex;
   grid-template-columns: 1fr 1fr;
   align-items: center;
-  justify-self: center;
+  /* justify-self: center; */
+  justify-content: space-between;
   margin: 0 auto;
   height: 90vh;
   background-color: #141414;
