@@ -3,12 +3,12 @@ This is a simple website created using HTML, CSS, and JavaScript. It is a fully 
 Getting Started
 To get started, clone the repository and open the index.html file in a web browser.
 
-##Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
   
-##Features
+## Features
 - Fully responsive design
 - Smooth scrolling
 - Navigation bar
