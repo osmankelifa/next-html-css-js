@@ -44,6 +44,10 @@
   font-size: 2rem;
 }
 
+#navbar__logo span {
+  margin-left: 10px;
+}
+
 .fa-gem {
   margin-right: 0.5rem;
 }
@@ -215,7 +219,7 @@
   height: 90vh;
   background-color: #141414;
   z-index: 1;
-  max-width: 1300px;
+  /* max-width: 1300px; */
   padding: 0 50px;
 }
 
@@ -290,6 +294,8 @@
 
 .main__img--container {
   text-align: center;
+  border-radius: 10px;
+  overflow: hidden;
 }
 
 #main__img {
@@ -373,7 +379,8 @@
     #b12a5b 100%
   );
   background-size: 100%;
-  margin-top: 5rem;
+  /* margin-top: 5rem; */
+  padding-bottom: 5rem;
   font-size: 2.5rem;
   -webkit-background-clip: text;
   -moz-background-clip: text;
